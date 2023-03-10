@@ -1,0 +1,227 @@
+.p1{
+    background-image: url(../img/bg-masthead.jpg);
+    height: 800px;
+    
+}
+.b1{
+    background-color:#196D87;
+    color: white;
+    margin-top: 5%;
+    font-size:medium;
+    padding-left: 4%;
+    padding-right:4%;
+    padding-top: 2%;
+    padding-bottom:2%;
+}
+.p2{
+    color:#212529 ;
+    font-size: 400%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    padding-top: 20%;
+}
+.p2 h3{
+    font-size: 45%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}   
+.p2 h1{
+    font-size: 120%;
+}
+.p3{
+    background-color: white;
+    text-align: center;
+    height:400px ;
+    padding-top: 10%;
+    padding-left: 1%;
+}
+.p3 h1{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:180%
+    
+}
+.p3 h4{
+    color: darkslategray;
+    font-size: 98%;
+}
+.p3 a{
+    color:darkslategray;
+     
+}
+  .b2{
+    background-color:#23272B;
+    color: white;
+    margin-top: 5%;
+    font-size: medium;
+    padding-left: 5%;
+    padding-right:5%;
+    padding-top: 2%;
+    padding-bottom:2%;
+  }  
+  .p4{
+    background-color:#1D809F ;
+    color: white;
+    height: 500px;
+    padding-top: 10%;
+
+  }
+  .p4 h4{
+    color: #ECB807;
+    font-size: 100%;
+    text-align: center;
+  }
+  .p4 h1{
+    font-size: 270%;
+    text-align: center;
+  }
+  .p4 div{
+    padding-left: 10%;
+  }
+   .p5-1{
+    background-image: url(../img/bg-callout.jpg);
+    height: 800px;
+    color: black;
+    
+    text-align: center;
+    padding-top: 25%;
+   } 
+   .b3{
+    background-color: #1D809F;
+    color: white;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-top:5%;
+    font-size: medium;
+   }
+   .p5 h1{
+    font-size: 350%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .p6{
+    background-color:#1D809F;
+    text-align: center;
+    height: 300px;
+    padding-top: 6%;
+   }
+
+   .b5{
+    background-color:#23272B;
+    color: white;
+    margin-top: 3%;
+    margin-left: 2%;
+    font-size: medium;
+    padding-left: 4%;
+    padding-right:4%;
+    padding-top: 2%;
+    padding-bottom:2%;
+    
+  } 
+  .b4{
+    background-color:white;
+    color: black;
+    margin-top: 3%;
+    margin-left: 2%;
+    font-size: medium;
+    padding-left: 4%;
+    padding-right:4%;
+    padding-top: 2%;
+    padding-bottom:2%;
+  } 
+  .p6 h2{
+    color:white ;
+
+  }
+  .bi-tablet{
+    padding-left: 30%;
+  }
+  .bi-pencil{
+    padding: 30%;
+  }
+  .bi-hand-thumbs-up{
+    padding-left: 30%;
+  }
+  .bi-reply{
+    padding-left: 30%;
+  }
+  .col-lg-2{
+    padding-right: 13%;
+  }
+  .col-lg-1{
+    padding-left:5%;
+  }
+  .p7{
+    padding-top: 10%;
+    padding-left:40%;
+    height: 300px;
+
+  }
+  .bi-facebook{
+    padding-bottom: 70%;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-bottom: 20%;
+  }
+  .bi-twitter{
+    padding-bottom: 60%;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-top: 20%;
+  }
+  .bi-github{
+    padding-bottom: 60%;
+    margin-top: 5%;
+    margin-left: 25%;
+    
+  }
+  h6{
+    text-align: center;
+    padding-left: 43%;
+   
+  }
+  .p8{
+    background-image: url(../img/portfolio-1.jpg);
+    height: 300px;
+    margin-left: 6%;
+    color: white;
+  }
+  .p9{
+    background-image: url(../img/portfolio-2.jpg);
+    height: 300px;
+    margin-left: 1%;
+    color: white;
+  }
+  .p10{
+    background-image: url(../img/portfolio-3.jpg);
+    height: 300px;
+    margin-left: 6%;
+    padding-left ;
+    color: white;
+  }
+  .p11{
+    background-image: url(../img/portfolio-4.jpg);
+    height: 300px;
+    margin-left: 1%;
+    color: white;
+  }
+  .row h5{
+    padding-top: 15%;
+  }
+  .o{
+    padding-top: 8%;
+    text-align: center;
+    color: #ECB807;
+    font-size: 30%;
+
+  }
+  .oo{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:90%;
+    padding-bottom: 5%;
+  }
+  
+
+
+ 
